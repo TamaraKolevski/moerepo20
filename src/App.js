@@ -1,4 +1,10 @@
+import Todo from "./components/Todo";
+
 const App = () => {
-  return (<></> );
-}
+  return (
+    <>
+      <Todo></Todo>
+    </>
+  );
+};
 export default App;
